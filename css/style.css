@@ -1,0 +1,72 @@
+.main{
+    left: 10px;
+    position: absolute  ;
+}
+
+
+.red {
+    width: 300px;
+    height: 300px;
+    left: 370px;
+    top: 70px;
+    background: red;
+    float: left;
+    box-sizing: border-box;
+    position: absolute;
+    border-radius: 50%;
+}
+
+
+.orange{
+    width: 300px;
+    height: 300px;
+    left: 180px;
+    background: orange;
+    float: left;
+    box-sizing: border-box;
+    position: absolute;
+    opacity: 80%;
+    border-radius: 50%;
+}
+
+
+
+.text{
+    font-size: 70px;
+    left: 445px;
+    top: 400px;
+    float: left;
+    box-sizing: border-box;
+    position: absolute;
+}
+
+
+.r-sign{
+    position: absolute;
+    float: left;
+    box-sizing: border-box;
+    left: 310px;
+    top: 5px;
+}
+
+
+
+div img {
+    width: 10px;
+    height: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* copyright by mahmrtz..! */
